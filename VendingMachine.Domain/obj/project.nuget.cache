@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Z0nBRnlJWHBJgXpcjTkIv21PGBP7TsG/++VPdEXbuZhMsXr4X3yqU1YD6gDVmFkzMhFFBudjTlH8DEI4sjv7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cferraro\\source\\repos\\VendingMachine\\VendingMachine.Domain\\VendingMachine.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cferraro\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

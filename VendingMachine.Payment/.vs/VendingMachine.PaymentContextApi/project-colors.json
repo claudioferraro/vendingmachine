@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a58c3db0-46d8-4e5e-8a79-05920c16bd83": {
+      "ProjectGuid": "a58c3db0-46d8-4e5e-8a79-05920c16bd83",
+      "DisplayName": "VendingMachine.Payment.Context",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ahI1+SpbBf2Gmpx7iCT5No8TrFtybnoerhbDGXUOCvk=",
+  "Source": "VendingMachine.Payment.Context",
+  "BasePath": "_content/VendingMachine.Payment.Context",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

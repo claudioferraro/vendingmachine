@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "223d3437-8c5b-44c3-8ad3-eaf52eb187b1": {
+      "ProjectGuid": "223d3437-8c5b-44c3-8ad3-eaf52eb187b1",
+      "DisplayName": "VendingMachine.Product.Context",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

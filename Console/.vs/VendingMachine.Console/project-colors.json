@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b510aca4-a7f9-44a8-810f-04362e692f8c": {
+      "ProjectGuid": "b510aca4-a7f9-44a8-810f-04362e692f8c",
+      "DisplayName": "VendingMachine.Console.UnitTests",
+      "ColorIndex": 0
+    },
+    "0530c998-63e1-46b8-8dda-e96b74f1a084": {
+      "ProjectGuid": "0530c998-63e1-46b8-8dda-e96b74f1a084",
+      "DisplayName": "VendingMachine.Console",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ff493937-32da-42c2-907b-f8f7f8bee44a": {
+      "ProjectGuid": "ff493937-32da-42c2-907b-f8f7f8bee44a",
+      "DisplayName": "VendingMachine.Domain",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,12 @@
+C:\Users\cferraro\source\repos\VendingMachine\VendingMachine.Common\bin\Debug\net6.0\VendingMachine.Common.deps.json
+C:\Users\cferraro\source\repos\VendingMachine\VendingMachine.Common\bin\Debug\net6.0\VendingMachine.Common.dll
+C:\Users\cferraro\source\repos\VendingMachine\VendingMachine.Common\bin\Debug\net6.0\ref\VendingMachine.Common.dll
+C:\Users\cferraro\source\repos\VendingMachine\VendingMachine.Common\bin\Debug\net6.0\VendingMachine.Common.pdb
+C:\Users\cferraro\source\repos\VendingMachine\VendingMachine.Common\obj\Debug\net6.0\VendingMachine.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cferraro\source\repos\VendingMachine\VendingMachine.Common\obj\Debug\net6.0\VendingMachine.Common.AssemblyInfoInputs.cache
+C:\Users\cferraro\source\repos\VendingMachine\VendingMachine.Common\obj\Debug\net6.0\VendingMachine.Common.AssemblyInfo.cs
+C:\Users\cferraro\source\repos\VendingMachine\VendingMachine.Common\obj\Debug\net6.0\VendingMachine.Common.csproj.CoreCompileInputs.cache
+C:\Users\cferraro\source\repos\VendingMachine\VendingMachine.Common\obj\Debug\net6.0\VendingMachine.Common.dll
+C:\Users\cferraro\source\repos\VendingMachine\VendingMachine.Common\obj\Debug\net6.0\ref\VendingMachine.Common.dll
+C:\Users\cferraro\source\repos\VendingMachine\VendingMachine.Common\obj\Debug\net6.0\VendingMachine.Common.pdb
+C:\Users\cferraro\source\repos\VendingMachine\VendingMachine.Common\obj\Debug\net6.0\VendingMachine.Common.csproj.AssemblyReference.cache
